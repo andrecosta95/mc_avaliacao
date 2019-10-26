@@ -1,8 +1,0 @@
-applications:
-- name: my-review
-path: target/my-reviews.jar
-domain: cfapps.io
-memory: 1G
-instances: 1
-services:
-- mysql
